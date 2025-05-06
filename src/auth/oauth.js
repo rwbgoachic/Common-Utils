@@ -1,0 +1,1 @@
+export const authenticate = () => OAuth2.0(CLIENT_ID, CLIENT_SECRET);
