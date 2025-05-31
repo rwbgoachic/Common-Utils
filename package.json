@@ -1,20 +1,7 @@
 {
   "name": "@paysurity/common-utils",
   "version": "1.0.0",
-  "description": "Common utility functions for PaySurity platform",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "paysurity",
-    "common",
-    "utils"
-  ],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "1.6.2",
-    "winston": "3.11.0"
-  }
+  "license": "MIT",
+  "description": "Common utility functions for PaySurity applications."
 }
